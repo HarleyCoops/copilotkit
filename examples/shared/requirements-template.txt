@@ -7,8 +7,8 @@ copilotkit==0.1.49
 
 # LangChain ecosystem - exact versions from main SDK  
 langchain==1.3.2
-langgraph==0.4.8
-langsmith==0.8.0
+langgraph==1.0.10rc1
+langsmith==0.8.7
 
 # OpenAI - compatible range with main SDK
 openai>=1.68.2,<2.0.0
